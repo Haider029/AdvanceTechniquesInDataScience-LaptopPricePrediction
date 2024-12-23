@@ -1,2 +1,3 @@
 # AdvanceTechniquesInDataScience-LaptopPricePrediction
-https://www.youtube.com/watch?v=X9viZeVZpOY
+Youtube Link-  https://www.youtube.com/watch?v=X9viZeVZpOY
+Google Drive link in case youtube doesnot work: https://drive.google.com/file/d/1hprbtDjLSZJGNKri5xpFuwaBV9A_baUN/view?usp=sharing
